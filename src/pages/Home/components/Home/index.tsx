@@ -6,6 +6,7 @@ export const Home = () => {
 		<div className="test">
 			<h1>Категории</h1>
 			<NavLink to="/table">Таблица</NavLink>
+			<NavLink to="/todo">Todo</NavLink>
 		</div>
 	);
 };

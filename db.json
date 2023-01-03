@@ -1,7 +1,28 @@
 {
 	"posts": [
-		{ "id": 1, "title": "json-server" },
-		{ "id": 2, "title": "json-server2" },
-		{ "id": 3, "title": "json-server3" }
+		{
+			"id": "wodCVSSduB6yEtgOadq9g",
+			"title": "Погулять с собакой",
+			"task": "Гулять не мение 1 часа в лесу",
+			"completed": false,
+
+			"date": "27.09.2022, 13:41:13"
+		},
+		{
+			"id": "aV_Bt5Z3K6nyHWcSXehId",
+			"title": "Выпить пиво",
+			"task": "Только безалкогольное и не более 1 литра",
+			"completed": false,
+
+			"date": "01.11.2022, 00:36:28"
+		},
+		{
+			"id": "fkfTHOFbGbm-LoNahCm0j",
+			"title": "Поиграть с детьми ",
+			"task": "все должны выжить",
+			"completed": false,
+
+			"date": "01.11.2022, 00:39:58"
+		}
 	]
 }
